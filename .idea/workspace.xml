@@ -5,31 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="495626dc-bf51-4595-914e-cb82b1702ed8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD3-SS7-AbstractInterface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_AnimalEdible/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_AnimalEdible/Animals/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_AnimalEdible/Animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_AnimalEdible/Animals/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_AnimalEdible/Ediable/Ediable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_AnimalEdible/Fruit/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_AnimalEdible/Fruit/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_AnimalEdible/Fruit/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_Comparable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_Comparable/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_Comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_Comparable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_Comparable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_Comparable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_Comparator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_Comparator/CircleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_Comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_Comparator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_Resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_Resizeable/IResizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_Resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_Resizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_Resizeable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_Resizeable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Colorable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Colorable/IColorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Colorable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Colorable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT2_Colorable/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/MD3-SS7-AbstractInterface/src/Rikkei/academy/BT2_Colorable",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,17 +57,35 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\MD3-SS7-AbstractInterface\src\Rikkei\academy\BT2_Colorable" />
+      <recent name="D:\Java\MD3-SS7-AbstractInterface\src\Rikkei\academy\BT1_Resizeable" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Rikkei.academy.BT2_Colorable" />
       <recent name="Rikkei.academy.TH3_Comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rikkei.academy.TH3_Comparator.Main">
+  <component name="RunManager" selected="Application.Rikkei.academy.BT2_Colorable.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_AnimalEdible.Animals.Main" />
       <module name="MD3-SS7-AbstractInterface" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Rikkei.academy.TH1_AnimalEdible.Animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rikkei.academy.BT2_Colorable.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT2_Colorable.Test" />
+      <module name="MD3-SS7-AbstractInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.BT2_Colorable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,8 +119,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.BT1_Resizeable.Test" />
+      <module name="MD3-SS7-AbstractInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.BT1_Resizeable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rikkei.academy.BT2_Colorable.Test" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Rikkei.academy.TH3_Comparator.Main" />
         <item itemvalue="Application.Rikkei.academy.TH2_Comparable.Main" />
         <item itemvalue="Application.Main" />
@@ -128,7 +150,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678351037111</updated>
-      <workItem from="1678351038717" duration="2665000" />
+      <workItem from="1678351038717" duration="3602000" />
+      <workItem from="1678417870731" duration="3282000" />
     </task>
     <servers />
   </component>
